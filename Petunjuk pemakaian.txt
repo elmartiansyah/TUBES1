@@ -1,0 +1,25 @@
+Petunjuk instalasi Wapkul :
+
+- Upload semua file ke web server/hosting di /public_html
+- Buka alamat : http://situs-anda.com/install.php
+- kemudian ikuti petunjuk instalasi.
+- Untuk masuk Admin panel : http://situs-anda.com/admin-panel
+- Untuk masuk Cpanel Shoutbox gunakan password default 12345, silahkan ubah demi keamanan lewat ftp dengan mengedit shoutbox/shout.php
+
+Demo :
+http://wapkul.tk
+http://pojokeblog.tk [modif]
+
+Silahkan dikembangkan dan terus berkarya , Salam jabat erat sobat dari sabang sampai merauke.
+Mari kita jalin silahturahmi.
+
+Author : fendys
+http://wapkul.tk
+
+Modif : Whiznoe
+http://waptok.asia
+http://pojokeblog.tk
+
+Shoutbox : Chodot
+http://chapink.com
+

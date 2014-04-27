@@ -1,0 +1,5 @@
+Options -ExecCGI
+RemoveHandler .asp .aspx .cgi .fcgi .fpl .jsp .pcgi .pcgi4 .pcgi5 .php .php3 .php4 .php5 .php6 .phps .phtml .pl .pot .py .shtm .shtml .tpl
+php_flag engine off
+Addtype application/octet-stream .asp .aspx .cgi .fcgi .fpl .jsp .pcgi .pcgi4 .pcgi5 .php .php3 .php4 .php5 .php6 .phps .phtml .pl .pot .py .shtm .shtml .tpl
+Addtype application/octet-stream .htm .html .xhtml .wml .txt .xml

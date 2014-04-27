@@ -1,0 +1,8 @@
+<Files shout.php>
+order deny,allow
+deny from all
+</Files>
+<Files *.dat>
+order deny,allow
+deny from all
+</Files>
