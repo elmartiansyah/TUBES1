@@ -18,7 +18,7 @@ switch($m){
 case "panel":
 $auth = $_POST['auth'];
 if (empty($auth)){
-echo 'Hayo mau masuk sembarang ye.. ? <img src="http://chodot.yn.lt/img/pentung.gif" alt="pentung"/><br/>
+echo 'Gak Bisa Masuk weeewww.. ? <img src="http://chodot.yn.lt/img/pentung.gif" alt="pentung"/><br/>
 &raquo; <a href="admin.php">Kembali</a><br/>';
 }
 else if ($auth !== $adminpass){
