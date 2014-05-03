@@ -14,6 +14,8 @@ require_once('inc/header.php');
 	'<tr><td>' . smiley(':(') . '</td><td>-&nbsp;<b>:(</b></td></tr>'.
 	'<tr><td>' . smiley(":'(") . '</td><td>-&nbsp;<b>:\'(</b></td></tr>'.
 	'<tr><td>' . smiley(':@') . '</td><td>-&nbsp;<b>:@</b></td></tr>'.
+	'<tr><td>' . smiley(':G') . '</td><td>-&nbsp;<b>:G</b></td></tr>'.
+	'<tr><td>' . smiley('|-)') . '</td><td>-&nbsp;<b>|-)</b></td></tr>'.
 	'</table></div>';
 	rb('b');
 require_once('inc/footer.php');
